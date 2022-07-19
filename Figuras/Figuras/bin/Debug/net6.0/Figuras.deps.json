@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Figuras/1.0.0": {
+        "dependencies": {
+          "Canvas": "1.0.0"
+        },
+        "runtime": {
+          "Figuras.dll": {}
+        }
+      },
+      "Canvas/1.0.0": {
+        "runtime": {
+          "Canvas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Figuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Canvas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
